@@ -1,4 +1,4 @@
-###for DataSturcture
+###DataSturcture
 
 * 数据结构课程学习
 * 主要参考国嵌课程和《大话数据结构》
