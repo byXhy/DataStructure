@@ -96,7 +96,7 @@ int SeqList_Insert(SeqList* list, SeqListNode* node, int pos)
     ret = ret && (sList->length + 1 <= sList->capacity);
     ret = ret && (0 <= pos);
 
-    if (ret > 0) {
+    if (ret) {
         if (pos >= sList->length) {
             pos = sList->length;
         }

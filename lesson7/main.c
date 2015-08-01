@@ -18,6 +18,7 @@
  * \file
  * \brief  SeqList operation
  */
+ 
 #include <stdio.h>
 #include "SeqList.h"
  
