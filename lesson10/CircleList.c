@@ -166,7 +166,7 @@ CircleListNode* CircleList_DeleteNode(CircleList* list, CircleListNode* node)
     if (sList != NULL) {
         CircleListNode* current = (CircleListNode*)sList;
          
-        for (i=0; i,sList->length; i++) {
+        for (i=0; i<sList->length; i++) {
             if (current->next == node) {
                 ret = current->next;
                 break;
