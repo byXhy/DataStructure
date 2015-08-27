@@ -1,4 +1,4 @@
-###DataSturcture
+###language-s2-last_term
 
 * 数据结构课程学习
 * 水平有限，代码难免出现错误，还望指出
